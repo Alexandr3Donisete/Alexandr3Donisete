@@ -2,10 +2,10 @@
 
 <h3> :boy: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Estudando novas tecnologias, buscando aprender e aplicar ao máximo os conhecimentos adquiridos. 
+- 🤔 &nbsp; Sempre estudando novas tecnologias e buscando aplicar ao máximo os conhecimentos adquiridos. 
 - 🎓 &nbsp;Estudante de **Análise e Desenvolvimento de Sistemas** pela <a href="https://sptech.school/">SPTECH</a>.
-- :computer: &nbsp; Atualmente, estudando Java e Springboot para aprimorar minhas habilidades como desenvolvedor Backend.
-- 🌱 &nbsp; Buscando sempre adquirir e aprimorar as habilidades socioemocionais.
+- :computer: &nbsp; Atualmente aprofundando os estudos em Java e Spring Boot, com foco no desenvolvimento Backend.
+- 🌱 &nbsp; Em constante evolução, também dedicando-me ao aprimoramento das habilidades socioemocionais.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
