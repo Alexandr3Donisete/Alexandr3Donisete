@@ -36,4 +36,4 @@
 
 [![Linkedin: Alexandre Donisete](https://img.shields.io/badge/-AlexandreDonisete-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-donisete-2316421a4/)](https://www.linkedin.com/in/alexandre-donisete-2316421a4/)
 [![Gmail Badge](https://img.shields.io/badge/-ale.bezerra.donisete@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ale.bezerra.donisete@gmail.com)](mailto:ale.bezerra.donisete@gmail.com)
-[![GitHub AlexandreDonisete]( https://img.shields.io/github/followers/AlexandreDonisete?label=follow&style=social)](https://github.com/Alexandr3Donisete)
+[![GitHub AlexandreDonisete]( https://img.shields.io/github/followers/Alexandr3Donisete?label=follow&style=social)](https://github.com/Alexandr3Donisete)
